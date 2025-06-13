@@ -1,4 +1,4 @@
-### 📈 Google Stock Price Prediction using LSTM
+## 📈 Google Stock Price Prediction using LSTM
 
 This project focuses on predicting Google (Alphabet Inc.) stock prices using Long Short-Term Memory (LSTM) neural networks — a powerful deep learning technique for time series forecasting.
 The project covers the complete workflow of time series analysis, including:
